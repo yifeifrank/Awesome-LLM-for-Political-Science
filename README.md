@@ -30,7 +30,7 @@ Large Language Models (LLMs) are increasingly being utilized in political scienc
 
 ### Political Science for LLM
 - **Alignment**: Addressing cultural biases and aligning large language models with human values.
-  Cultural bias and cultural alignment of large language models[Paper](https://doi.org/10.1093/pnasnexus/pgae346).
+Cultural bias and cultural alignment of large language models[Paper](https://doi.org/10.1093/pnasnexus/pgae346).
 - Benchmarking: Establishing standards to evaluate the performance of LLMs in political contexts.
 
 ## LLM as Tool
