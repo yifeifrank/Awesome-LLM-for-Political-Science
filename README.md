@@ -1,14 +1,24 @@
 # Awesome-LLM-for-Political-Science
-LLM papers related to political science or written by political scientist
+LLM papers related to political science or written by political scientist.
 
 # Basics of LLMs for poli scientist
 
-# The four dimension of LLM-Polisci interaction
+# The 2x2 dimension of LLM-Polisci interaction
+LLM4Polisci vs Polisci4LLM
+LLM as Human vs LLM as tool
 
-# Annotation
+#LLM as human
+## LLM for polisci
+- Hyposes generation
+- Silico simulation
+## Polisci for LLM
+- Political value alignment
+- Agent as tool
 
-# LLM agent
-
-# Subjects
-
-# Alignment
+#LLM as tool
+## LLM for polisci
+- Annotation
+- Codebook development
+## Polisci for LLM
+- Retriving
+- 
