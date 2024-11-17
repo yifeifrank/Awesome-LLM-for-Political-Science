@@ -13,7 +13,7 @@ LLM as Human vs LLM as tool
 - Silico simulation
 ## Polisci for LLM
 - Political value alignment
-- Agent as tool
+- LLM agent for social benefit
 
 # LLM as tool
 ## LLM for polisci
