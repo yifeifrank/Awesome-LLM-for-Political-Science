@@ -7,7 +7,7 @@ LLM papers related to political science or written by political scientist.
 LLM4Polisci vs Polisci4LLM
 LLM as Human vs LLM as tool
 
-#LLM as human
+# LLM as human
 ## LLM for polisci
 - Hyposes generation
 - Silico simulation
@@ -15,10 +15,9 @@ LLM as Human vs LLM as tool
 - Political value alignment
 - Agent as tool
 
-#LLM as tool
+# LLM as tool
 ## LLM for polisci
 - Annotation
 - Codebook development
 ## Polisci for LLM
 - Retriving
-- 
