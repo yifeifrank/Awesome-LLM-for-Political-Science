@@ -4,8 +4,7 @@ LLM papers related to political science or written by political scientist.
 # Basics of LLMs for poli scientist
 
 # The 2x2 dimension of LLM-Polisci interaction
-![political_compass](https://github.com/user-attachments/assets/d2101e57-a510-40e2-8e4b-ede7c250bfd1)
-
+![political_compass](https://github.com/user-attachments/assets/dac87b80-48cd-42c6-a521-2c8cc0895d26)
 
 # LLM as human
 ## LLM for polisci
