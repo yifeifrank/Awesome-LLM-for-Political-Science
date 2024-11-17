@@ -1,23 +1,47 @@
-# Awesome-LLM-for-Political-Science
-LLM papers related to political science or written by political scientist.
+## Awesome LLM for Political Science
 
-# Basics of LLMs for poli scientist
+This document compiles research and insights related to Large Language Models (LLMs) specifically in the field of political science. It includes papers authored by political scientists and discusses various interactions between LLMs and political science methodologies.
 
-# The 2x2 dimension of LLM-Polisci interaction
-<img src="https://github.com/user-attachments/assets/224bb377-e88f-4c7e-919a-02e6ffe09ddc" alt="political_compass" width="200" height="200">
+## Table of Contents
 
+- [Basics of LLMs for Political Scientists](#Basics-of-LLMs-for-political-scientists)
+- [The 2x2 Dimension of LLM-Political Science Interaction](#The-2x2-Dimension-of-LLM-Political-Science-Interaction)
+- [LLM as Human](#LLM-as-Human)
+  - [LLM for Political Science](#LLM-for-political-science)
+  - [Political Science for LLM](#Political-science-for-LLM)
+- [LLM as Tool](#LLM-as-Tool)
+  - [LLM for Political Science](#LLM-for-political-science-tool)
+  - [Political Science for LLM](#Political-science-for-LLM-tool)
 
-# LLM as human
-## LLM for polisci
-- Hyposes generation
+## Basics of LLMs for Political Scientists
+
+Large Language Models (LLMs) are increasingly being utilized in political science research. They offer new methodologies for data analysis, hypothesis generation, and simulation of political phenomena.
+
+## The 2x2 Dimension of LLM-Political Science Interaction
+
+<img src="https://github.com/user-attachments/assets/224bb377-e88f-4c7e-919a-02e6ffe09ddc" alt="political_compass" width="300" height="250">
+
+## LLM as Human
+
+### LLM for Political Science
+- Hypothesis generation
 - Silico simulation
-## Polisci for LLM
-- Political value alignment
-- LLM agent for social benefit
+- Agent-based treatment
 
-# LLM as tool
-## LLM for polisci
-- Annotation
-- Codebook development
-## Polisci for LLM
-- Retriving
+### Political Science for LLM
+- **Alignment**: Addressing cultural biases and aligning large language models with human values. For more details, refer to the paper on cultural alignment [here](https://doi.org/10.1093/pnasnexus/pgae346).
+- Benchmarking: Establishing standards to evaluate the performance of LLMs in political contexts.
+
+## LLM as Tool
+
+### LLM for Political Science
+- Annotation: Utilizing LLMs to assist in data annotation processes.
+- Codebook development: Creating frameworks for organizing qualitative data.
+
+### Political Science for LLM
+- Retrieving: Enhancing retrieval methods using insights from political science to improve model responses.
+
+This structured overview emphasizes the multifaceted interactions between Large Language Models and the field of political science, highlighting both the applications of LLMs in research and the contributions of political science to the development and alignment of these models.
+
+Citations:
+[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/17508143/76e2f603-26e9-4dff-81e6-e9616a22bee8/paste.txt
