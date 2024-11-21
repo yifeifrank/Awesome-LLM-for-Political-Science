@@ -66,6 +66,10 @@ Addressing cultural biases and aligning large language models with human values.
 #### Benchmarking
 Establishing standards to evaluate the performance of LLMs in political contexts.
 
+- **CultureLLM: Incorporating Cultural Differences into Large Language Models**, 2024.02, Cheng Li, Mengzhou Chen, Jindong Wang, Sunayana Sitaram, and Xing Xie, arXiv [[paper]](https://doi.org/10.48550/arXiv.2402.10946)
+
+- **ValueBench: Towards Comprehensively Evaluating Value Orientations and Understanding of Large Language Models**, 2024.06, Yuanyi Ren, Haoran Ye, Hanjun Fang, Xin Zhang, and Guojie Song, arXiv [[paper]](https://doi.org/10.48550/arXiv.2406.04214)
+
 ## LLM as Tool
 
 ### LLM for Political Science
