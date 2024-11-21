@@ -52,6 +52,8 @@ Large Language Models (LLMs) are increasingly being utilized in political scienc
 
 - **How Persuasive Is AI-Generated Propaganda?**, 2024.02, Josh A. Goldstein, Jason Chao, Shelby Grossman, Alex Stamos, and Michael Tomz, PNAS Nexus [[paper]](https://doi.org/10.1093/pnasnexus/pgae034)
 
+- **Does AI Help Humans Make Better Decisions? A Methodological Framework for Experimental Evaluation**, 2024.03, Eli Ben-Michael, D. James Greiner, Melody Huang, Kosuke Imai, Zhichao Jiang, and Sooahn Shin, arXiv [[paper]](https://doi.org/10.48550/arXiv.2403.12108)
+
 - **The Persuasive Effects of Political Microtargeting in the Age of Generative Artificial Intelligence**, 2024.02, Almog Simchon, Matthew Edwards, and Stephan Lewandowsky, PNAS Nexus [[paper]](https://doi.org/10.1093/pnasnexus/pgae035)
 
 
