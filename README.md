@@ -10,6 +10,7 @@ This document compiles research and insights related to Large Language Models (L
   - [LLM for Political Science](#llm-for-political-science)
     - [Hypothesis generation](#hypothesis-generation)
     - [Silico simulation](#silico-simulation)
+    - [Agent as treatment](#agent-as-treatment)
   - [Political Science for LLM](#political-science-for-llm)
     - [Alignment](#alignment)
     - [Benchmarking](#benchmarking)
@@ -25,10 +26,6 @@ Large Language Models (LLMs) are increasingly being utilized in political scienc
 <img src="https://github.com/user-attachments/assets/224bb377-e88f-4c7e-919a-02e6ffe09ddc" alt="political_compass" width="300" height="250">
 
 ## LLM as Human
-
-- **How Persuasive Is AI-Generated Propaganda?**, 2024.02, Josh A. Goldstein, Jason Chao, Shelby Grossman, Alex Stamos, and Michael Tomz, PNAS Nexus [[paper]](https://doi.org/10.1093/pnasnexus/pgae034)
-
-- **The Persuasive Effects of Political Microtargeting in the Age of Generative Artificial Intelligence**, 2024.02, Almog Simchon, Matthew Edwards, and Stephan Lewandowsky, PNAS Nexus [[paper]](https://doi.org/10.1093/pnasnexus/pgae035)
 
 ### LLM for Political Science
 #### Hypothesis generation
@@ -50,6 +47,13 @@ Large Language Models (LLMs) are increasingly being utilized in political scienc
 - **Predicting Results of Social Science Experiments Using Large Language Models**, Ashwini Ashokkumar, Luke Hewitt, Isaias Ghezae, and Robb Willer
 
 - **Synthetic Replacements for Human Survey Data? The Perils of Large Language Models**, 2024.05, James Bisbee, Joshua D. Clinton, Cassy Dorff, Brenton Kenkel, and Jennifer M. Larson, Political Analysis [[paper]](https://doi.org/10.1017/pan.2024.5)
+
+#### Agent as treatment
+
+- **How Persuasive Is AI-Generated Propaganda?**, 2024.02, Josh A. Goldstein, Jason Chao, Shelby Grossman, Alex Stamos, and Michael Tomz, PNAS Nexus [[paper]](https://doi.org/10.1093/pnasnexus/pgae034)
+
+- **The Persuasive Effects of Political Microtargeting in the Age of Generative Artificial Intelligence**, 2024.02, Almog Simchon, Matthew Edwards, and Stephan Lewandowsky, PNAS Nexus [[paper]](https://doi.org/10.1093/pnasnexus/pgae035)
+
 
 ### Political Science for LLM
 #### Alignment
